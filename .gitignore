@@ -1,0 +1,19 @@
+# package directories
+node_modules
+jspm_packages
+
+# Serverless directories
+.serverless
+
+# vim settings
+.rootdir
+
+# exclude logs
+*.log
+
+# exclude webstorm and idea files
+.idea
+*.iml
+
+# exclude sublime project files
+*.sublime-*
